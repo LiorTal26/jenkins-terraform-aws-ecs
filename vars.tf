@@ -27,7 +27,7 @@ variable "task_family" {
 }
 
 
-variable "frontend_image" {
+variable "my_image" {
   default = "314525640319.dkr.ecr.il-central-1.amazonaws.com/lior/nodejs-mysql:v2"
 }
 
